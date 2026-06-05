@@ -65,6 +65,6 @@ A implementação do simulador está contida em um arquivo unificado estruturado
 ### Orientações sobre a Execução do Simulador
 
 1. **Clonagem do Repositório:**
-   Abra o seu terminal e clone o projeto com o comando:
+   abra o seu terminal e clone o projeto com o comando:
    ```bash
    git clone https://github.com/pedro-lucas-dias-freitas/simulador-sistema-arquivos-journaling.git
