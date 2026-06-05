@@ -1,9 +1,9 @@
 # Simulador de Sistema de Arquivos com Journaling
 
-**Autor:** Pedro Lucas Dias Freitas
-**Instituição:** Universidade de Fortaleza(UNIFOR)  
-**Disciplina:** Projeto de sistemas operacionais  
-**Link do Repositório:** [https://github.com/pedro-lucas-dias-freitas/simulador-sistema-arquivos-journaling.git](https://github.com/pedro-lucas-dias-freitas/simulador-sistema-arquivos-journaling.git)
+* **Autor:** Pedro Lucas Dias Freitas
+* **Instituição:** Universidade de Fortaleza (UNIFOR)  
+* **Disciplina:** Projeto de sistemas operacionais  
+* **Link do Repositório:** [https://github.com/pedro-lucas-dias-freitas/simulador-sistema-arquivos-journaling.git](https://github.com/pedro-lucas-dias-freitas/simulador-sistema-arquivos-journaling.git)
 
 ---
 
